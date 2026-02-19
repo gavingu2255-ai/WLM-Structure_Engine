@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wlm-structure-engine"
+version = "0.1.0"
+description = "Dimensional structure → interpretable inputs, stable agents, structured cognition."
+authors = [
+  { name = "Wujie Gu", email = "example@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/yourname/wlm-structure-engine"
