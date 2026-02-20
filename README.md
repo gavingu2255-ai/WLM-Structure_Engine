@@ -196,9 +196,7 @@ wlm-structure-engine/
 │       └── utils.py
 │
 ├── examples/
-│   ├── basic_structure.md
-│   ├── agent_behavior.md
-│   └── persona_structure.md
+│   └── agent_loop.py
 │
 └── docs/
     ├── overview.md
@@ -206,6 +204,7 @@ wlm-structure-engine/
     ├── agents.md
     ├── knowledge.md
     └── roadmap.md
+
 ```
 
 ---
